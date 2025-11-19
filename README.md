@@ -20,7 +20,7 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 
 
 
-# Deploy on Vercel Live Link : https://optimal-task-management.vercel.app/
+Live Link : https://optimal-task-management.vercel.app/
 
 
 
