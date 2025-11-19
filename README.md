@@ -37,4 +37,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 
 
-<img width="1294" height="509" alt="Screenshot 2025-11-17 212702" src="https://github.com/user-attachments/assets/9c63f062-aeb6-485b-90cc-1766f456978a" />
+## How To Create Team 
+<img width="1577" height="402" alt="image" src="https://github.com/user-attachments/assets/a6340901-abb0-4e51-b71d-169cade32c63" />
