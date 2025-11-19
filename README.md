@@ -42,6 +42,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 ## How To Create Team Member
 
-<img width="1546" height="511" alt="image" src="https://github.com/user-attachments/assets/14f71ac8-ce8c-4e33-b394-974716db9fa4" />
+<img width="1550" height="383" alt="image" src="https://github.com/user-attachments/assets/355037c9-60dd-40ed-a45b-a1749abe90a0" />
 
-<img width="1561" height="474" alt="image" src="https://github.com/user-attachments/assets/e4a053d0-750d-4dd1-89b5-8184282dec0f" />
+<img width="1563" height="811" alt="image" src="https://github.com/user-attachments/assets/a6c12013-f725-4a0b-bb7d-9fa656fd9d24" />
