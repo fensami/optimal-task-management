@@ -215,6 +215,8 @@ import { TeamManager } from './team-manager'
 import { ProjectManager } from './project-manager'
 import { TaskManager } from './task-manager'
 import { ActivityLog } from './activity-log'
+import LogoImage from '../../assets/logo.png'
+import Image from 'next/image'
 
 export function Dashboard({ user, setUser }) {
   const [activeTab, setActiveTab] = useState('overview')
@@ -270,8 +272,11 @@ export function Dashboard({ user, setUser }) {
     <div className="min-h-screen bg-gray-50">
       {/* Header */}
       <header className="bg-white shadow">
-        <div className="max-w-7xl mx-auto px-4 py-4 flex justify-between items-center">
-          <h1 className="text-3xl font-bold text-gray-900">Smart Task Manager</h1>
+        <div className="container mx-auto px-4 md:px-0 py-6  flex justify-between items-center">
+          <div>
+            <Image src={LogoImage} width={150} height={60} alt='Logo Image'/>
+          </div>
+          {/* <h1 className="text-3xl font-bold text-gray-900">Opti Task</h1> */}
           <div className="flex items-center gap-4">
             <span className="text-gray-600">{user.name}</span>
             <Button onClick={logout} variant="outline">
@@ -283,7 +288,7 @@ export function Dashboard({ user, setUser }) {
 
       {/* Navigation Tabs */}
       <div className="bg-white border-b">
-        <div className="max-w-7xl mx-auto px-4 flex gap-8">
+        <div className="container mx-auto px-4 md:px-0 flex gap-8">
           {['overview', 'teams', 'projects', 'tasks'].map((tab) => (
             <button
               key={tab}
@@ -301,7 +306,7 @@ export function Dashboard({ user, setUser }) {
       </div>
 
       {/* Content */}
-      <div className="max-w-7xl mx-auto px-4 py-8">
+      <div className="container mx-auto px-4 md:px-0 py-8">
         {activeTab === 'overview' && (
           <div className="space-y-6">
             {/* Stats Cards */}

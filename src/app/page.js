@@ -27,7 +27,7 @@ export default function Home() {
   return (
     <div>
    <Dashboard user={user} setUser={setUser} />
-   <div>kaku</div>
+   
     </div>
   );
 }
