@@ -42,6 +42,21 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 ## How To Create Team Member
 
-<img width="1550" height="383" alt="image" src="https://github.com/user-attachments/assets/355037c9-60dd-40ed-a45b-a1749abe90a0" />
-
 <img width="1563" height="811" alt="image" src="https://github.com/user-attachments/assets/a6c12013-f725-4a0b-bb7d-9fa656fd9d24" />
+
+## How To Create Project
+
+<img width="1560" height="638" alt="image" src="https://github.com/user-attachments/assets/a7660fe6-53a4-4d5b-94c5-e1ebe9c4f159" />
+
+<img width="1570" height="356" alt="image" src="https://github.com/user-attachments/assets/59f267bc-dcc8-4a37-9319-6b4d94591caa" />
+
+## How To Create Task
+
+<img width="1563" height="799" alt="image" src="https://github.com/user-attachments/assets/86bdade4-786d-4202-86f9-6d763641cecf" />
+
+<img width="1546" height="444" alt="image" src="https://github.com/user-attachments/assets/2c831926-b298-4312-88f6-653b2dc6768e" />
+
+# This is the Dashboard View
+
+<img width="1589" height="728" alt="image" src="https://github.com/user-attachments/assets/b984d5c6-8c86-4d96-a3d1-9b4e9f192f67" />
+
